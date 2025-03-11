@@ -17,9 +17,10 @@ website:
 format:
   html:
     theme:
-      - quartz
+      - lux
       - brand
     css: styles.css
+    css: styles.scss
     toc: true
     
 
