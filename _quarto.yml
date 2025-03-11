@@ -18,9 +18,8 @@ format:
   html:
     theme:
       - lux
-      - brand
+      - styles.scss
     css: styles.css
-    css: styles.scss
     toc: true
     
 
