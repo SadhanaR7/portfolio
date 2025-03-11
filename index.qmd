@@ -1,0 +1,43 @@
+---
+title: "Sadhana R Sambandam"
+text: "<img src= 'C:/Users/sadha/OneDrive/Pictures/profile pic1.png' class='circle-image'>"
+about:
+    template: jolla
+    links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/sadhana-r-sambandam
+    - icon: github
+      text: Github
+      href: https://github.com/SadhanaR7
+format: html
+css: styles.css
+---
+
+## Hi, I’m **Sadhana!** 👋  
+A Final year International Business student studying Data Analytics. 
+[Learn more about me](about.html)
+
+## Highlights
+- **Latest Book Review**: [Check out my review on XYZ](blog.html#bookreview)
+- **Newest Blog Post**: [Read my thoughts on ABC](blog.html#latestblog)
+- **Portfolio Update**: [View my recent project](portfolio.html#latestproject)
+
+## Get in Touch  
+<!--<</ul> -->
+
+<!--<a href="https://github.com/yourprofile" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+<a href="https://instagram.com/yourprofile" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
+
+
+<!--## Get in Touch
+Connect with me on [GitHub](https://github.com/yourprofile), [LinkedIn](https://linkedin.com/in/yourprofile), and [Instagram](https://instagram.com/yourprofile). -->
+
+<!--# Feature
+
+---
+# Contact
+
+---
+# Find me -->
