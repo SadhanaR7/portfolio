@@ -1,8 +1,9 @@
 ---
-title: "About"
-image: "<img src= 'C:/Users/sadha/OneDrive/Pictures/profile pic1.png' class='circle-image'>"
+title: "About Me"
+subtitle: "Learn more about me"
+image: "<img src= 'https://media.licdn.com/dms/image/v2/D4E03AQEkzjr6ALWC1w/profile-displayphoto-shrink_400_400/B4EZQFVTzFHAAg-/0/1735256260464?e=1747267200&v=beta&t=uPdF4Npo8GJvWp8lzW7_fZooTrbFdA8DO3VXjwZSRF0' class='circle-image'>"
 about:
-    template: jolla
+    template: solana
     links:
     - icon: linkedin
       text: LinkedIn
@@ -21,13 +22,16 @@ I’m a **Final-year International Business (French) student at DCU**, specializ
 I’m a firm believer in **big ideas, bold thinking, and the power of innovation**. Whether it’s solving real-world business challenges, exploring the intersection of AI and ethics, or reimagining sustainable solutions, I am constantly **learning, creating, and pushing boundaries**.  
 
 ## 🎨 What you’ll find here  
-This website is more than just a portfolio—it’s a **living, breathing collection of my journey**. Expect to find:  
+This website is more than just a portfolio—it’s a **living, breathing collection of my journey**. 
+Expect to find:  
 
 -  **My professional work** – Projects, achievements, and insights into my career.  
 -  **My blog** – A space where I share my thoughts on books, business, AI, and innovation. From my artwork to travel experiences, discoveries, and lessons learned along the way.  
 
 ## 🚀 Where I’m headed  
 My dream is to **pioneer meaningful change at the intersection of business strategy, AI, and ethics**. In the future, I aspire to pursue a **master’s degree, a PhD in Sustainable AI and Ethics**, and ultimately become a **university professor**—inspiring the next generation of leaders.  
+
+
 
 ✨ I’m here to **learn, grow, and make a difference**—one idea, one challenge, and one adventure at a time.  
 

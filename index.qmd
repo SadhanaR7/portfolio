@@ -1,8 +1,8 @@
 ---
 title: "Sadhana R Sambandam"
-text: "<img src= 'C:/Users/sadha/OneDrive/Pictures/profile pic1.png' class='circle-image'>"
+text: profile pic1.png 
 about:
-    template: jolla
+    template: solana
     links:
     - icon: linkedin
       text: LinkedIn
@@ -24,6 +24,11 @@ A Final year International Business student studying Data Analytics.
 - **Portfolio Update**: [View my recent project](portfolio.html#latestproject)
 
 ## Get in Touch  
+
+
+
+
+
 <!--<</ul> -->
 
 <!--<a href="https://github.com/yourprofile" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>

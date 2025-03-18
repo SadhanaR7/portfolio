@@ -4,9 +4,7 @@ project:
 website:
   title: ''
   navbar:
-    left:
-      - href: index.qmd
-        text: "<img src= 'C:/Users/sadha/OneDrive/Pictures/profile pic1.png' class='logo'>"
+    logo: profile_pic1.png
     right:
       - href: index.qmd
         text: Home

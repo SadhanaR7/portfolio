@@ -10,5 +10,11 @@
   },
   "portfolio.qmd": {
     "portfolio.html": "73ea04b5"
+  },
+  "work/strategy presentation/index.qmd": {
+    "index.html": "d84fe533"
+  },
+  "work/mlresearchreport/index.qmd": {
+    "index.html": "5731b185"
   }
 }
