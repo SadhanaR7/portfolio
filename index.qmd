@@ -1,15 +1,8 @@
 ---
 title: "Sadhana R Sambandam"
-text: profile pic1.png 
 about:
     template: solana
-    links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/sadhana-r-sambandam
-    - icon: github
-      text: Github
-      href: https://github.com/SadhanaR7
+    
 format: html
 css: styles.css
 ---
@@ -25,7 +18,16 @@ A Final year International Business student studying Data Analytics.
 
 ## Get in Touch  
 
-
+<div class="about-links">
+  <a style="margin-right: 10px" href="https://linkedin.com/in/sadhana-r-sambandam" class="about-link" rel="" target="" data-original-href="https://linkedin.com/in/sadhana-r-sambandam">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/SadhanaR7" class="about-link" rel="" target="" data-original-href="https://github.com/SadhanaR7">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+</div>
 
 
 

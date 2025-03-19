@@ -2,5 +2,6 @@
 title: "Our Strategy for Bord Bia"
 author: "Sadhana"
 date: "2025-03/11"
+image: Bord Bia.png
 ---
 Hello

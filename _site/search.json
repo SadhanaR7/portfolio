@@ -32,7 +32,7 @@
     "href": "index.html#get-in-touch",
     "title": "Sadhana R Sambandam",
     "section": "Get in Touch",
-    "text": "Get in Touch"
+    "text": "Get in Touch\n\n  LinkedIn    Github"
   },
   {
     "objectID": "about.html#what-drives-me",
@@ -67,7 +67,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "ML\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nSadhana\n\n\n\n\n\n\n\n\n\n\n\n\nOur Strategy for Bord Bia\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nSadhana\n\n\n\n\n\n\nNo matching items"
+    "text": "ML\n\n\n\n\n\n\n\n\n\n\n\n\n\nParking Protect\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaws For Justice - Accenture Leaders of Tomorrow Winner\n\n\n\n\n\n\n\n\n\n\n\n\n\nOur Strategy for Bord Bia\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#hi-im-sadhana",
@@ -88,6 +88,41 @@
     "href": "work/mlresearchreport/index.html",
     "title": "ML",
     "section": "",
-    "text": "Hello"
+    "text": "hi"
+  },
+  {
+    "objectID": "baa1028-lecture9/index.html",
+    "href": "baa1028-lecture9/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "baa1028-lecture9/about.html",
+    "href": "baa1028-lecture9/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "baa1028-lecture9/projects/index.html",
+    "href": "baa1028-lecture9/projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Nullam dapibus cursus dolor sit amet consequat. Nulla facilisi. Curabitur vel nulla non magna lacinia tincidunt. Duis porttitor quam leo, et blandit velit efficitur ut. Etiam auctor tincidunt porttitor. Phasellus sed accumsan mi. Fusce ut erat dui. Suspendisse eu augue eget turpis condimentum finibus eu non lorem. Donec finibus eros eu ante condimentum, sed pharetra sapien sagittis. Phasellus non dolor ac ante mollis auctor nec et sapien. Pellentesque vulputate at nisi eu tincidunt. Vestibulum at dolor aliquam, hendrerit purus eu, eleifend massa. Morbi consectetur eros id tincidunt gravida. Fusce ut enim quis orci hendrerit lacinia sed vitae enim.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "work/parking protect/index.html",
+    "href": "work/parking protect/index.html",
+    "title": "Parking Protect",
+    "section": "",
+    "text": "hi how are you"
+  },
+  {
+    "objectID": "work/paws4justice/index.html",
+    "href": "work/paws4justice/index.html",
+    "title": "Paws For Justice - Accenture Leaders of Tomorrow Winner",
+    "section": "",
+    "text": "hello"
   }
 ]

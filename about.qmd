@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 subtitle: "Learn more about me"
-image: "<img src= 'https://media.licdn.com/dms/image/v2/D4E03AQEkzjr6ALWC1w/profile-displayphoto-shrink_400_400/B4EZQFVTzFHAAg-/0/1735256260464?e=1747267200&v=beta&t=uPdF4Npo8GJvWp8lzW7_fZooTrbFdA8DO3VXjwZSRF0' class='circle-image'>"
+image: .\profile_pic1.png
 about:
     template: solana
     links:
@@ -11,7 +11,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/SadhanaR7
-
 ---
 
 ## Hi, I’m **Sadhana!** 👋  

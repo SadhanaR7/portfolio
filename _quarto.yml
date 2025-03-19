@@ -3,14 +3,17 @@ project:
 
 website:
   title: ''
+  favicon: rocket-takeoff-dark.svg
   navbar:
-    logo: profile_pic1.png
+    logo: rocket-takeoff.svg
     right:
       - href: index.qmd
         text: Home
       - about.qmd
       - portfolio.qmd
       - blog.qmd
+  page-footer: 
+    left: "copyright 2025"
 
 format:
   html:
@@ -18,7 +21,7 @@ format:
       - lux
       - styles.scss
     css: styles.css
-    toc: true
+    toc: false
     
 
 
