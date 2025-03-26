@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/portfolio.html",
     "items": [
       "/work/mlresearchreport/index.html",
@@ -11,9 +7,5 @@
       "/work/paws4justice/index.html",
       "/work/strategy presentation/index.html"
     ]
-  },
-  {
-    "listing": "/baa1028-lecture9/projects/index.html",
-    "items": []
   }
 ]
