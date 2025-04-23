@@ -4,9 +4,9 @@ author: "Sadhana"
 date: "2025-03/11"
 image: Bord Bia.png
 ---
-Hello
+
 
 
 ```{=html}
-<iframe scr="Presentation.pdf"></iframe>
+<iframe width="600" height="500" src="Presentation.pdf"></iframe>
 ```
