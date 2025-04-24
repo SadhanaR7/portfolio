@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/talk/undergrad/index.html",
-      "/talk/book1/index.html",
-      "/talk/funding/index.html",
-      "/talk/pres/index.html",
-      "/talk/vision/index.html"
-    ]
-  },
-  {
     "listing": "/portfolio.html",
     "items": [
       "/work/mlresearchreport/Sadhana_ML_Reflective_Report_.html",
@@ -20,6 +10,17 @@
       "/work/strategy presentation/index.html",
       "/work/paws4justice/index.html",
       "/work/parking protect/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/talk/undergrad/index.html",
+      "/talk/book1/index.html",
+      "/talk/funding/index.html",
+      "/talk/pres/index.html",
+      "/talk/deloitte/index.html",
+      "/talk/vision/index.html"
     ]
   }
 ]
