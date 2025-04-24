@@ -2,7 +2,7 @@
 title: "Elevate Peer Mentor"
 author: "Sadhana"
 date: "2025-04-07"
-image: peer.jpeg
+image: mentorc.jpeg
 ---
 ![Elevate Mentor Certificate](mentorc.jpeg)
 
