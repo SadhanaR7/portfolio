@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-subtitle: "Learn more about me"
+subtitle: " "
 image: .\profile_pic1.png
 about:
     template: solana
