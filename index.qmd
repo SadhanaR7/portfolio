@@ -9,18 +9,27 @@ css: styles.css
 
 ## Hi, Welcome to my Website👋  
 ![ ](gradireland.jpeg)
-A Final year International Business student studying Data Analytics. 
+
+I’m a final-year International Business student specializing in Data Analytics where strategy, technology, and insight come together. I’m glad you’re here. This website is a window into my work, ideas, and journey designed to give you a clear sense of who I am and what I do.
+
+Whether you're here to explore my portfolio, learn more about my background, or dive into my latest blog insights, you'll find everything you need right here. Let’s connect and create something meaningful.
+
 [Learn more about me](about.html)
 
 ## Highlights
+
+
 ![ ](trophy%20copy.jpeg)
 
-- Undergraduate of the Year 2025: [Learn about my Leadership Journey](work/undergrad/)
+Undergraduate of the Year 2025: [Learn about my Leadership Journey](work/undergrad/)
 
 ![ ](board%20.jpg)
 
-- **Newest Blog Post**: [Read About My Vision for 2025](talk/vision/)
-- **Portfolio Update**: [View my recent project](portfolio.html#latestproject)
+Newest Blog Post: [Read About My Vision for 2025](talk/vision/)
+
+![ ](p4j.jpeg)
+
+Portfolio Update: [View my Animal Welfare Project](work/paws4justice/)
 
 ## Get in Touch  
 

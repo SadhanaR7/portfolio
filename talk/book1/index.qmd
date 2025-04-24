@@ -1,0 +1,8 @@
+---
+title: "Book Review: Atlas of AI by Kate Crawford"
+author: "Sadhana"
+date: "2025-03-25"
+image: atlas.JPG
+---
+
+hey

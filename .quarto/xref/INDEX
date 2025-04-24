@@ -55,5 +55,11 @@
   },
   "talk/vision/index.qmd": {
     "index.html": "0b622602"
+  },
+  "talk/funding/index.qmd": {
+    "index.html": "c12a4808"
+  },
+  "talk/book1/index.qmd": {
+    "index.html": "1334eaa6"
   }
 }

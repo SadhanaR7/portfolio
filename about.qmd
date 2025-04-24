@@ -26,8 +26,8 @@ I love big questions. How can we make AI more ethical? What does a sustainable b
 
 ## What you’ll find here  
 
--  *My Portfolio* – Projects, achievements, and insights into my career.  
--  *My Blog* – A space where I share my thoughts on books, business, AI, and innovation. From my artwork to travel experiences, discoveries, and lessons learned along the way.  
+-  [My Portfolio](portfolio.html) – Projects, achievements, and insights into my career.  
+-  [My Blog](blog.html) – A space where I share my thoughts on books, business, AI, and innovation. From my artwork to travel experiences, discoveries, and lessons learned along the way.  
 
 ## Where I’m headed  
 Long term, I want to be part of shaping the future of responsible tech. I’m aiming for a master’s, then a PhD in Sustainable AI and Ethics, and one day, I hope to teach and mentor others as a university professor.

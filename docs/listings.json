@@ -3,6 +3,8 @@
     "listing": "/blog.html",
     "items": [
       "/talk/undergrad/index.html",
+      "/talk/book1/index.html",
+      "/talk/funding/index.html",
       "/talk/pres/index.html",
       "/talk/vision/index.html"
     ]
