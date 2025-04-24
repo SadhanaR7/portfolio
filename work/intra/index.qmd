@@ -1,0 +1,17 @@
+---
+title: "Intra and Erasmus Student Talks"
+author: "Sadhana"
+date: "2025-03-09"
+image: erasmustalk.jpeg
+---
+```{=html}
+<iframe width="600" height="500" src="INTRA & ERASMUS Student Talks.pdf"></iframe>
+```
+
+## Exciting Event Recap: Intra & Erasmus Student Talks at DCU Business School! 
+
+I recently organised the Intra and Erasmus Student Talks Event at DCU Business School to help second-year students learn from the experiences of their peers. Final-year students who had completed internships or studied abroad during their third year shared their stories, advice, and personal growth. The event aimed to provide practical guidance and inspiration for students preparing for their own Intra placements or Erasmus journeys.
+
+A huge thank you to our fantastic speakers: Ishita Gupta, Michael Niyi-Ige, Nicolette Towela Simuzingili, Csilla Novak, Shona Martin Holohan, and Giulianna Carvalho. Their insights and reflections were incredibly valuable and helped create a supportive, informative atmosphere. I also had the chance to speak about my own Erasmus experience at KEDGE Business School in Bordeaux. It was a transformative year that shaped both my academic and personal journey, and I encourage everyone to explore such opportunities during university.
+
+Special thanks to the DCU INTRA Programme Service and Jennifer Kwan from the DCU Careers Service for sharing important information with attendees and taking part in the event. I also appreciate the support from the DCU Students’ Union, which helped make this event possible. To everyone who attended, thank you for being part of a meaningful and inspiring afternoon. Let’s continue to support each other in learning and growing together. 
