@@ -3,9 +3,9 @@ project:
   output-dir: docs
 website:
   title: ''
-  favicon: rocket-takeoff-dark.svg
+  favicon: hand.svg
   navbar:
-    logo: rocket-takeoff.svg
+    logo: hand2.svg
     right:
       - href: index.qmd
         text: Home
