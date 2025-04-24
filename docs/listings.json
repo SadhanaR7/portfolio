@@ -1,11 +1,20 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/talk/pres/index.html",
+      "/talk/undergrad/index.html"
+    ]
+  },
+  {
     "listing": "/portfolio.html",
     "items": [
-      "/work/mlresearchreport/index.html",
-      "/work/parking protect/index.html",
+      "/work/mlresearchreport/Sadhana_ML_Reflective_Report_ (2).html",
+      "/work/undergrad/index.html",
+      "/work/pres/index.html",
+      "/work/strategy presentation/index.html",
       "/work/paws4justice/index.html",
-      "/work/strategy presentation/index.html"
+      "/work/parking protect/index.html"
     ]
   }
 ]

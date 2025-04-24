@@ -1,7 +1,7 @@
 ---
 title: "Our Strategy for Bord Bia"
 author: "Sadhana"
-date: "2025-03/11"
+date: "2025-02-11"
 image: Bord Bia.png
 ---
 
@@ -10,3 +10,52 @@ image: Bord Bia.png
 ```{=html}
 <iframe width="600" height="500" src="Presentation.pdf"></iframe>
 ```
+## Exporting Excellence: Positioning Irish Halal Beef in the UAE Market
+
+In a world where food choices are increasingly influenced by values such as sustainability, ethics, and cultural inclusivity, Bord Bia — Ireland’s Food Board — is taking a bold step forward. As part of a strategic consultancy project, our team explored the feasibility and potential of expanding Ireland’s premium Halal-certified beef into the high-opportunity UAE market. The result is a multifaceted market entry strategy built on rigorous research, innovation, and a clear sustainability agenda.
+
+This project was more than just an academic exercise. It challenged us to think like consultants, to analyze a real-world opportunity, and to design a roadmap that Bord Bia could practically implement. In this blog, I walk you through the strategy we developed and what I learned along the way.
+
+## Why the UAE, and Why Now?
+Nearly 29% of UAE beef consumers are willing to pay a premium for quality-assured beef — a powerful insight that set the stage for our strategy. As the sixth-largest beef exporter globally, Ireland has both the reputation and the resources to serve this growing demand. However, only a small fraction of its beef exports currently reach the UAE. We saw this as an untapped goldmine.
+
+The UAE was an ideal launchpad: it's a regional food hub, home to a significant Muslim population with strong demand for Halal-certified products. Culturally sensitive marketing and a commitment to food traceability could differentiate Irish Halal beef from competitors in the region.
+
+## A Strategy in Four Stages
+Our framework followed a structured four-stage consulting approach: Orientation, Diagnostic, Intervention, and Evaluation.
+
+## Orientation
+We began by understanding Bord Bia’s core mission: to promote Irish food and drink through sustainability, innovation, and quality. Their flagship program, Origin Green, already aligns with 15 of the 17 UN Sustainable Development Goals. We also examined the organisation’s current market position, global reach, and value chain capabilities through a SWOT and competitor analysis.
+
+## Diagnostic
+Next, we applied PESTLE and Porter’s Five Forces to assess the external environment. Our research revealed strong sustainability regulations and ethical consumption trends in both Ireland and the UAE. These reinforced the importance of emphasizing traceability and green production methods. We also identified intense competition from European and North American agencies, but noted Bord Bia’s distinct edge: Ireland’s 100% grass-fed beef and leadership in sustainability.
+
+## Intervention
+This was the execution phase. Our proposed strategy focused on:
+Building certification partnerships with the Islamic Foundation of Ireland, ESMA, and HIA in the UAE.
+Leveraging AI-driven consumer insights to refine marketing.
+Developing B2B links with retail giants like Carrefour and Waitrose, as well as HORECA suppliers.
+Launching culturally attuned digital campaigns featuring Halal food creators.
+Establishing a phased rollout: planning, pilot, full-scale launch, and evaluation.
+We didn’t stop at market expansion. Our second pillar was sustainability innovation. This included:
+Investing in alternative proteins and regenerative agriculture.
+Using blockchain traceability to ensure transparency.
+Expanding Origin Green with new audits and sustainability-linked incentives for producers.
+
+## Evaluation
+To measure success, we defined KPIs like:
+Sales growth and market share.
+Social media engagement rates.
+Stakeholder feedback from UAE partners.
+Sustainability compliance metrics.
+Financially, our projections showed a 15% annual growth rate, with a declining break-even volume each year due to premium pricing. For instance, only 6.7 tonnes needed to be sold in 2025 to break even — a very achievable target given the market size and willingness to pay.
+
+## Key Takeaways
+Cultural Sensitivity is Crucial: A one-size-fits-all strategy doesn’t work in global markets. Localisation — especially in Halal markets — means more than just certification; it means respect, understanding, and tailored storytelling.
+Sustainability is More Than a Buzzword: Origin Green gives Ireland a strong edge, but to stay ahead, continued investment in innovation like seaweed farming and plant-based proteins is vital.
+AI and Data Drive Relevance: Consumer behavior is evolving rapidly. Real-time insights can help Bord Bia stay agile, personal, and persuasive in a crowded marketplace.
+
+## Final Reflection
+This project was a deep dive into the intersection of international business strategy, cultural insight, and sustainable development. It tested our analytical skills, pushed our creativity, and gave us a taste of what it’s like to work on high-impact projects with real-world relevance.
+
+As I look ahead to my career in international marketing or sustainability consulting, this experience will remain a standout — not just for the depth of the challenge, but for the clarity of purpose it gave us. Good food tells a story. Great strategy makes it heard.

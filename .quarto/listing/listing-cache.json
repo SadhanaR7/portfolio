@@ -1,5 +1,8 @@
 {
   "listingMap": {
+    "blog.qmd": [
+      "talk"
+    ],
     "portfolio.qmd": [
       "work"
     ]

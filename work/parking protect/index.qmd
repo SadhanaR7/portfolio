@@ -1,7 +1,7 @@
 ---
 title: "Parking Protect"
 author: "Sadhana"
-date: "2025-03/11"
+date: "2022-06-03"
 image: ParkingProtect.jpeg
 ---
 
@@ -10,5 +10,33 @@ image: ParkingProtect.jpeg
 ```{=html}
 <iframe width="600" height="500" src="National Comp.pdf"></iframe>
 ```
+Parking Protect is a community-driven initiative that seeks to address the misuse of accessible parking.
+Accessible parking spaces are more than just spaces.  They’re not only close to entrances for easy access, but wider for side-loading ramps and safe vehicle exit and entry. They're not just convenient, they're essential for independence and equality for all.
 
+Meet a young Kevin and his family.  Kevin's grandmother, who was disabled and had dementia at the end of her life, was often wrongfully denied the accessible spaces she needed. Forced into tighter parking spaces, Kevin’s family often struggled to safely transfer her into and out of her wheelchair. Kevin and his family are not alone. A recent survey by the Disabled Drivers Association found 80% of 800 respondents have witnessed misuse and a staggering 96% are urging for more decisive action. 
+
+This issue has gained mass media attention with the Disabled Drivers Association calling for action from the government. Our app, available on Android and iOS platforms, provides a safe and convenient system to document misuse to parking services, with our AI technology that will filter out false claims. Additionally, the app includes a map to view and navigate to accessible spaces which you can send to Google or Apple Maps for directions and our app will be free to users. We cater to businesses, authorities, and local governments.
+
+We cater to businesses, authorities, and local governments. We offer a subscription service for reporting and business intelligence including hot zones mapping areas and times of misuse, which allow businesses to improve their accessibility while optimising their security resources. We also offer accessibility consulting, and the potential to licence our AI.
+
+The majority of revenue will come from our subscription service. Targeting 20 customers in year one, at €150 per month which is the revenue gained from just one clamp, or €50 less than one fine. Factoring in our costs for app development, awareness campaigns and legal consultation, which total €40,000 for the year, we're still projecting a healthy net profit. Our total projected revenue for the first year is €73,000, and after costs, we're anticipating a net profit of €33,000.
+
+To support our mission, we developed an effective marketing strategy that focuses on raising awareness and promoting the benefits of our solution. Our first campaign made over 270,000 social media impressions on an Irish audience in just 5 weeks.  
+
+We are excited to say not only did we win a place on this year's Citi Pathways to Progress program, we gained recognition as one of the top community driven projects in Ireland as IE digital town awards finalists in the digital changemaker category!
+ 
+Moving forward, we have three key steps. 
+
+First, we're securing our legal footing to ensure full compliance. 
+Second, we're expanding outreach to raise awareness and engage our target audience. 
+And finally, we're seeking beta testers for our app on both Android and iOS platforms. 
+These steps will allow for Parking Protect's successful launch and sustainable growth.
+
+Help us protect people's places. 
+
+We want to say a huge thank you to our sponsors Bowsy and Mude for their ongoing support throughout the year.
+With over 1,300 hours of dedicated volunteer work, from 51 inspirational members, impacting 444 individuals.
+This year Parking Protect has been a whirlwind of innovation, determination, and impact. 
+
+Parking Protect!
 

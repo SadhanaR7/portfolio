@@ -1,10 +1,24 @@
 ---
 title: "Paws For Justice - Accenture Leaders of Tomorrow Winner"
 author: "Sadhana"
-date: "2025-03/11"
+date: "2024-08-17"
 image: PawsforJustice.png
 ---
 
 ```{=html}
 <iframe width="600" height="500" src="Paws for Justice Pitch.pdf"></iframe>
 ```
+
+The Leaders of Tomorrow program fosters hashtag#growth in strategy and entrepreneurship through 6 weeks of creating a potential start-up. Thank you to our program leaders Joe Grey, Nicole Roche and Ashleigh Simms for their guidance, expertise and constructive criticism.
+
+Thank you to my team Anna Wynne, Hichem Birem and Andrei Voiniciuc. Couldn't have done this without you! 
+
+Anna Wynne and I presented our project Paws for Justice. An animal welfare based start up focused on animal healthcare and educating future generations to better the lives of our pets. As teamlead I oversaw all of the streams in our project and helped create the map to success. We completed market and field research in addition to holding interviews to understand the problem. We realised quickly that it's the people that need help not the pet. 
+
+Our solution encouraged pet parents to utilise our smart collar and app to monitor the health of their pet. We also showcased our workshop strategy which would be implemented in primary schools throughout Ireland to educate children from 2nd to 4th class on adequate pet care.
+
+Throughout this journey I learned teamwork skills communication and how to confidently build from the ground up. I was able to leverage the skills that I learnt at Accenture UK & Ireland such as project management, leadership, quantitave reasoning and technical aptitude. This experience elevated my publicspeaking skills whilst I indulged in understanding the technical aspects for the business such as creating prototypes and wireframes for our app.
+
+For further information regarding animal welfare, I encourage you to check out the resources provided by the [National Animal Rights Association of Ireland](https://www.naracampaigns.org/) and the [ISPCA](https://ispca.ie/).
+
+![Presenting the Project at Accenture](p4j.jpeg)
