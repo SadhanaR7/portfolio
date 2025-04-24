@@ -7,13 +7,19 @@ format: html
 css: styles.css
 ---
 
-## Hi, I’m **Sadhana!** 👋  
+## Hi, Welcome to my Website👋  
+![ ](gradireland.jpeg)
 A Final year International Business student studying Data Analytics. 
 [Learn more about me](about.html)
 
 ## Highlights
-- **Latest Book Review**: [Check out my review on XYZ](blog.html#bookreview)
-- **Newest Blog Post**: [Read my thoughts on ABC](blog.html#latestblog)
+![ ](trophy%20copy.jpeg)
+
+- Undergraduate of the Year 2025: [Learn about my Leadership Journey](work/undergrad/)
+
+![ ](board%20.jpg)
+
+- **Newest Blog Post**: [Read About My Vision for 2025](talk/vision/)
 - **Portfolio Update**: [View my recent project](portfolio.html#latestproject)
 
 ## Get in Touch  
