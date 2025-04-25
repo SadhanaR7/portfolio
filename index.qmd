@@ -1,5 +1,6 @@
 ---
-title: " "
+title: "Sadhana R Sambandam"
+page-title: false
 about:
     template: solana
     
