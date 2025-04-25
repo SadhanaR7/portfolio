@@ -15,7 +15,7 @@ about:
       href: https://github.com/SadhanaR7
     - icon: download
       text: My CV 
-      href: https://drive.google.com/file/d/1ForgKHxTFQHLL9vaMpg8L8LzPVyotKYx/view?usp=sharing 
+      href: Sadhana R Sambandam CV.pdf
     
 ---
 
