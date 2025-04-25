@@ -59,3 +59,9 @@ AI and Data Drive Relevance: Consumer behavior is evolving rapidly. Real-time in
 This project was a deep dive into the intersection of international business strategy, cultural insight, and sustainable development. It tested our analytical skills, pushed our creativity, and gave us a taste of what it’s like to work on high-impact projects with real-world relevance.
 
 As I look ahead to my career in international marketing or sustainability consulting, this experience will remain a standout — not just for the depth of the challenge, but for the clarity of purpose it gave us. Good food tells a story. Great strategy makes it heard.
+
+## Final Report
+
+```{=html}
+<iframe width="600" height="500" src="Written Report.pdf"></iframe>
+```
