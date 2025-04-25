@@ -1,9 +1,8 @@
 project:
-  title: "Sadhana R Sambandam"
   type: website
   output-dir: docs
 website:
-  title: ''
+  title: 'Sadhana R Sambandam'
   favicon: S.svg
   navbar:
     logo: S4.svg

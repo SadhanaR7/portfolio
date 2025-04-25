@@ -2,10 +2,12 @@
 title: "Sadhana R Sambandam"
 page-title: false
 about:
-    template: solana
-    
-format: html
-css: styles.css
+  template: solana
+
+format:
+  html:
+    theme: lux
+    css: styles.css
 ---
 <div style="text-align: center;">
 ## Hi, Welcome to my Website👋  

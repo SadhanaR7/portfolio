@@ -35,7 +35,9 @@
     object-fit: cover;
     display: block;
     transition: transform 0.3s ease, filter 0.3s ease;
-    border-radius: 15px;  /* <- this is the magic! */
+    border-radius: 15px;  
   }
   
-  
+  .title {
+    color: white; 
+  }
