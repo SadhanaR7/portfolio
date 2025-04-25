@@ -4,8 +4,11 @@ author: "Sadhana"
 date: "2025-03-25"
 image: atlas.JPG
 ---
+
+![ ](atlas.JPG)
+
 ## Atlas of AI by Kate Crawford
-Rating: 8.5/10
+*Rating: 8.5/10*
 
 During an Ethical Leadership class in France, I found myself deep in conversation with the professor about the moral dilemmas tied to artificial intelligence. He listened, nodded, and without warning, dashed out of the room. Minutes later, he returned with a book in hand, eyes bright: Atlas of AI by Kate Crawford. “This is where you begin,” he said.
 
