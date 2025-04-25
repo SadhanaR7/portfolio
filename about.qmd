@@ -14,7 +14,7 @@ about:
 ---
 
 ## Hi, I’m **Sadhana!** 👋  
-[Download My CV Here!](Sadhana%20R%20Sambandam%20CV.pdf)
+[Download My CV Here!](Sadhana%20R%20Sambandam%20CV.pdf){.about-link}
 
 I’m in my final year studying International Business with French at DCU, specializing in Data Analytics. Right now, I represent over 5,000 students as the Business Faculty Rep in DCUSU, a role that’s taught me a lot about leadership, listening, and speaking up for change.
 
