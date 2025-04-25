@@ -9,7 +9,7 @@ image: PawsforJustice.png
 <iframe width="600" height="500" src="Paws for Justice Pitch.pdf"></iframe>
 ```
 
-The Leaders of Tomorrow program fosters hashtag#growth in strategy and entrepreneurship through 6 weeks of creating a potential start-up. Thank you to our program leaders Joe Grey, Nicole Roche and Ashleigh Simms for their guidance, expertise and constructive criticism.
+The Leaders of Tomorrow program fosters growth in strategy and entrepreneurship through 6 weeks of creating a potential start-up. Thank you to our program leaders Joe Grey, Nicole Roche and Ashleigh Simms for their guidance, expertise and constructive criticism.
 
 Thank you to my team Anna Wynne, Hichem Birem and Andrei Voiniciuc. Couldn't have done this without you! 
 
