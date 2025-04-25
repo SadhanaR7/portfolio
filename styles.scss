@@ -3,7 +3,34 @@
 $magenta: #8c063a;
 $navbar-bg: $magenta;
 
-$cream: #ffffff;
+$cream: #fdf0db;
 $page-bg: $cream;
+
+$white: #ffffff;
+$button-bg: $magenta;
+$button-color: $white;
+
+/* Style custom about-link buttons */
+.about-links {
+  margin-top: 1rem;
+}
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  background-color: $button-bg;
+  color: $button-color;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background-color 0.3s ease;
+}
+
+.about-link:hover {
+  background-color: lighten($button-bg, 10%);
+  color: #ffffff;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');

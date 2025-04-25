@@ -14,7 +14,7 @@ I’m a final-year International Business student specializing in Data Analytics
 
 Whether you're here to explore my portfolio, learn more about my background, or dive into my latest blog insights, you'll find everything you need right here. Let’s connect and create something meaningful.
 
-[Learn more about me](about.html)
+[Learn more about me!](about.html)
 
 ## Highlights
 
