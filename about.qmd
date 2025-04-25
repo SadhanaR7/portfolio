@@ -13,8 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/SadhanaR7
+    - icon: download
       text: My CV
-      href: Sadhana R Sambandam CV.pdf
+      href: Sadhana%20R%20Sambandam%20CV.pdf
 ---
 
 ## Hi, I’m **Sadhana!** 👋  
