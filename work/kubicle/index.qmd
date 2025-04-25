@@ -5,6 +5,7 @@ date: "2025-04-24"
 image: kubicle.png
 ---
 
+## Kubicle Certificates
 ```{=html}
 <iframe width="600" height="500" src="kubiclecerts.pdf"></iframe>
 ```
