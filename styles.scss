@@ -10,10 +10,12 @@ $white: #ffffff;
 $button-bg: $magenta;
 $button-color: $white;
 
-/* Style custom about-link buttons */
 .about-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* evenly spaces buttons */
+  flex-wrap: wrap; /* allows wrapping on smaller screens */
   margin-top: 1rem;
-  text-align: center;
 }
 
 .about-link {
@@ -33,6 +35,7 @@ $button-color: $white;
   background-color: lighten($button-bg, 10%);
   color: #ffffff;
 }
+
 
   /* Make divider between blog posts maroon */
 .quarto-listing-default > .quarto-post {
@@ -69,5 +72,6 @@ $button-color: $white;
   margin-left: 0;
   margin-right: auto;
 }
+
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');

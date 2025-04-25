@@ -41,3 +41,30 @@
   .title {
     color: white; 
   }
+
+  .about-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* even spacing between buttons */
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+  
+  .about-link {
+    display: inline-flex;
+    align-items: center;
+    background-color: #8c063a; /* hardcoded color instead of $button-bg */
+    color: white; /* instead of $button-color */
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .about-link:hover {
+    background-color: #a8204d; /* slightly lighter */
+    color: #ffffff;
+  }
+  
