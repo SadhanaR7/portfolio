@@ -34,6 +34,11 @@ Undergraduate of the Year 2025: [Learn what Authentic Leadership means to me.](w
 
 Portfolio Update: [View my Animal Welfare Project](work/paws4justice/)
 
+<div style="text-align: center; margin-top: 2rem;">
+  <iframe width="700" height="500" src="https://www.youtube.com/watch?v=vFgZUkiX-9Q&list=LL" frameborder="0" allowfullscreen></iframe>
+</div>
+Listen the My Favourite Study Playlist. 
+
 ## Get in Touch  
 
 <div class="about-links">
