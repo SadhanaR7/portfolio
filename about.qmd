@@ -3,7 +3,9 @@ title: "About Me"
 subtitle: " "
 image: .\profile_pic1.png
 about:
-    template: solana
+    image-shape: round  
+    image-width: 17em 
+    template: jolla
     links:
     - icon: linkedin
       text: LinkedIn
@@ -22,7 +24,9 @@ I’m in my final year studying International Business with French at DCU, speci
 
 Outside the classroom, I’m all about startups, strategy, AI, ethics, sustainability, and entrepreneurship. Basically, if it’s at the edge of innovation and has real-world impact, I’m in, driven by curiosity and passion.
 
-## What drives me?  
+<div style="text-align: left;">
+## What drives me? 
+ 
 I’m a firm believer in big ideas, bold thinking, and the power of innovation. Whether it’s solving real-world business challenges, exploring the intersection of AI and ethics, or reimagining sustainable solutions, I am constantly learning, creating, and pushing boundaries .  
 
 I love big questions. How can we make AI more ethical? What does a sustainable business future look like? How do we build things that actually make life better? I’m always chasing ideas, experimenting, and trying to connect the dots between technology and human values.
@@ -38,6 +42,7 @@ Long term, I want to be part of shaping the future of responsible tech. I’m ai
 This site is a little window into the things I care about and the path I’m on.
 I’m here to *learn, grow, and make a difference*, one idea, one challenge, and one adventure at a time.  
 
+</div>
 Welcome to my world. 
 
 [Let’s connect and create something amazing together!](https://linkedin.com/in/sadhana-r-sambandam/)

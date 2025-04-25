@@ -5,7 +5,7 @@ website:
   title: ''
   favicon: S.svg
   navbar:
-    logo: S2.svg
+    logo: S4.svg
     text: Sadhana R Sambandam
     right:
       - href: index.qmd
