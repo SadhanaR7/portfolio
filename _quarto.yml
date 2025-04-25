@@ -1,4 +1,5 @@
 project:
+  title: "Sadhana R Sambandam"
   type: website
   output-dir: docs
 website:
