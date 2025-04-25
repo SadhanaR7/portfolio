@@ -3,9 +3,9 @@ project:
   output-dir: docs
 website:
   title: ''
-  favicon: hand.svg
+  favicon: S.svg
   navbar:
-    logo: hand2.svg
+    logo: S2.svg
     text: Sadhana R Sambandam
     right:
       - href: index.qmd

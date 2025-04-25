@@ -33,4 +33,37 @@ $button-color: $white;
   color: #ffffff;
 }
 
+  /* Make divider between blog posts maroon */
+.quarto-listing-default > .quarto-post {
+  border-bottom: 2px solid #8c063a !important;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+/* Remove border from last post */
+.quarto-listing-default > .quarto-post:last-child {
+  border-bottom: none !important;
+}
+
+/* Make the navbar logo (favicon S) visually larger */
+.navbar-logo {
+  height: 48px !important;
+  width: auto;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Tweak the container to remove constraints if needed */
+.navbar-brand,
+.navbar-brand-logo,
+.navbar-brand-container {
+  padding: 0 !important;
+  margin: 0 !important;
+  display: flex;
+  align-items: center;
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
