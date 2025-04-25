@@ -57,8 +57,9 @@ Listen to My Favourite Study Playlist.
     <span class="about-link-text">Github</span>
   </a>
 
-  <a href="/Sadhana R Sambandam CV.pdf" class="about-link">
-    Download My CV Here!
+  <a href="/Sadhana R Sambandam CV.pdf" class="about-link" download>
+    <i class="bi bi-download" style="margin-right: 5px;"></i>
+    My CV
   </a>
 </div>
 
