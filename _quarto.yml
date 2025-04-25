@@ -6,12 +6,17 @@ website:
   favicon: hand.svg
   navbar:
     logo: hand2.svg
+    text: Sadhana R Sambandam
     right:
       - href: index.qmd
         text: Home
       - about.qmd
       - portfolio.qmd
       - blog.qmd
+    search: true
+  search:
+      location: navbar
+      type: overlay
   page-footer: 
     left: "Copyright 2025. Sadhana R Sambandam"
 
