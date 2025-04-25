@@ -15,7 +15,7 @@ about:
       href: https://github.com/SadhanaR7
     - icon: download
       text: My CV
-      href: /Sadhana%20R%20Sambandam%20CV.pdf
+      href: https://sadhanar7.github.io/portfolio/Sadhana%20R%20Sambandam%20CV.pdf 
 ---
 
 ## Hi, I’m **Sadhana!** 👋  
