@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+  - "Sadhana R Sambandam CV.pdf"
 website:
   title: 'Sadhana R Sambandam'
   favicon: S.svg
